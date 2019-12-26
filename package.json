@@ -1,0 +1,12 @@
+{
+    "name": "vra",
+    "version": "0.0.1",
+    "description": "vra",
+    "author": "zero",
+    "license": "MIT",
+    "scripts": {
+        "install": "cd web && npm install",
+        "dev": "cd web && npm run dev",
+        "build": "cd web && npm run build"
+    }
+}
